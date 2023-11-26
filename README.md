@@ -12,5 +12,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=000000&background=43434300&random=false&width=435&lines=%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8+%D0%B8+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" alt="Typing SVG" /></a>  
 Jira, qase.io, Postgre SQL, Postman , Swagger, YouTrack, SoapUI,<br> Android Studio, Charles, Git, Chrome DevTools, Jmeter, Figma
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=000000&background=43434300&random=false&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=000000&background=43434300&random=false&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>  
+Проект 1<br>
+Проведение тест-анализа и проектирование проверки на часть требований к Яндекс Маршрутам.
+    Проанализированы и декомпозированы требования.
+    Составлена диаграмма связей, чтобы разобраться, какая функциональность есть в приложении.
+    Для одного из видов транспорта:
+    Составлена блок-схема, для понимания, как работает определённая логика приложения.
+    Подготовлена таблица с КЭ, чтобы получить тестовые данные для будущих тест-кейсов.
+    Разработано несколько тест-кейсов на основе своих тестовых данных.
