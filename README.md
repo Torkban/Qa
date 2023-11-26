@@ -19,7 +19,7 @@ Jira, qase.io, Postgre SQL, Postman , Swagger, YouTrack, SoapUI,<br> Android Stu
     Составление декомпозиции продукта с помощью интеллект-карты функционала. Оформлен план тестирования.
     Составлены функциональные и смоук тест-кейсы. Проведено тестирование по документации. 
     Составлен отчет о тестировании</blockquote> <br>
-  <a href="https://drive.google.com/file/d/1dXeW_WS6sjQwTOdqmu1_49yO3oNWFtPV/view?usp=sharing">Документация</a>
+  <a href="https://drive.google.com/file/d/1dXeW_WS6sjQwTOdqmu1_49yO3oNWFtPV/view?usp=sharing">Отчет о работе</a>
     
 Проект 2<br>
 Тест API веб-приложения для учителей от Skyeng.
